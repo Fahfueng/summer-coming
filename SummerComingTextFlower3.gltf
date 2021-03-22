@@ -1,0 +1,695 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 2970,
+            "type": "VEC3",
+            "max": [
+                0.11956294625997544,
+                0.039890434592962268,
+                0.1195269376039505
+            ],
+            "min": [
+                -0.1194189265370369,
+                0.00010956286132568493,
+                -0.08454377204179764
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 2970,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 2970,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 2970,
+            "type": "SCALAR",
+            "max": [
+                2969.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3",
+            "max": [
+                0.09999999403953552,
+                0.19999998807907105,
+                0.09999999403953552
+            ],
+            "min": [
+                -0.09999999403953552,
+                0.0,
+                -0.09999999403953552
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 2399,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 13536,
+            "type": "SCALAR",
+            "max": [
+                2398.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 35640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 35640,
+            "byteLength": 35640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 71280,
+            "byteLength": 23760,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 95040,
+            "byteLength": 11880,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 106920,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 135708,
+            "byteLength": 28788,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 164496,
+            "byteLength": 19192,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 183688,
+            "byteLength": 54144,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 237832,
+            "uri": "SummerComingTextFlower3_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000020983028662158177,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "AR - Pink BG",
+            "uri": "SummerComingTextFlower3_images/AR - Pink BG.jpg",
+            "mimeType": "image/jpeg"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0,
+                    "extensions": {
+                        "KHR_texture_transform": {
+                            "offset": [
+                                -0.6548096537590027,
+                                0.3553802967071533
+                            ],
+                            "rotation": 0.5061454772949219,
+                            "scale": [
+                                1,
+                                1
+                            ]
+                        }
+                    }
+                },
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 28",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.7991028428077698,
+                    0.0030352699104696514,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 32",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 2,
+                        "NORMAL": 1,
+                        "POSITION": 0
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_TORUS#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "PROCEDURAL_MESHES_SPHERE#",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 7,
+                    "material": 1
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -0.1484086513519287,
+                -0.19371497631072999,
+                0.9751972556114197
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "children": [
+                2,
+                3,
+                4,
+                5,
+                6,
+                7
+            ],
+            "translation": [
+                -0.6484086513519287,
+                -0.49371495842933657,
+                0.47519731521606448
+            ],
+            "name": "Group 5"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.8253511786460877,
+                -0.9141968488693237
+            ],
+            "rotation": [
+                -0.40050971508026125,
+                -0.40050971508026125,
+                -0.5827452540397644,
+                0.5827451348304749
+            ],
+            "scale": [
+                0.20142102241516114,
+                0.20142099261283875,
+                0.20142090320587159
+            ],
+            "mesh": 0,
+            "name": "Torus 26"
+        },
+        {
+            "translation": [
+                0.6427023410797119,
+                0.7648743391036987,
+                -0.9329921007156372
+            ],
+            "rotation": [
+                0.6644629836082459,
+                0.6644630432128906,
+                -0.2418447732925415,
+                0.24184472858905793
+            ],
+            "scale": [
+                0.20142114162445069,
+                0.20142105221748353,
+                0.2014211267232895
+            ],
+            "mesh": 1,
+            "name": "Torus 28"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.7997140288352966,
+                -0.9444193243980408
+            ],
+            "rotation": [
+                0.6623272895812988,
+                0.6623272895812988,
+                0.24763396382331849,
+                -0.2476339489221573
+            ],
+            "scale": [
+                0.20142115652561189,
+                0.2014210969209671,
+                0.20142115652561189
+            ],
+            "mesh": 2,
+            "name": "Torus 30"
+        },
+        {
+            "translation": [
+                0.6427023410797119,
+                0.7679473161697388,
+                -0.8948583602905273
+            ],
+            "rotation": [
+                0.4055798649787903,
+                0.40557968616485598,
+                -0.5792280435562134,
+                0.5792279243469238
+            ],
+            "scale": [
+                0.2014210820198059,
+                0.20142103731632234,
+                0.20142105221748353
+            ],
+            "mesh": 3,
+            "name": "Torus 27"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.8052279949188232,
+                -0.8824987411499023
+            ],
+            "rotation": [
+                0.04932529106736183,
+                0.04932519793510437,
+                -0.705384373664856,
+                0.7053842544555664
+            ],
+            "scale": [
+                0.20142103731632234,
+                0.20142103731632234,
+                0.20142099261283875
+            ],
+            "mesh": 4,
+            "name": "Torus 29"
+        },
+        {
+            "translation": [
+                0.6484086513519287,
+                0.7889728546142578,
+                -0.9022207260131836
+            ],
+            "rotation": [
+                -0.6087614297866821,
+                0.0,
+                0.0,
+                0.7933533191680908
+            ],
+            "scale": [
+                0.14907526969909669,
+                0.14907529950141908,
+                0.14907529950141908
+            ],
+            "mesh": 5,
+            "name": "Sphere 6"
+        },
+        {
+            "children": [
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "translation": [
+                -0.6484086513519287,
+                -0.49371495842933657,
+                0.47519731521606448
+            ],
+            "name": "Group 7"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.5526357889175415,
+                -0.06791996210813523
+            ],
+            "rotation": [
+                0.6623272895812988,
+                0.6623272895812988,
+                0.24763396382331849,
+                -0.2476339489221573
+            ],
+            "scale": [
+                0.20142115652561189,
+                0.2014210969209671,
+                0.20142115652561189
+            ],
+            "mesh": 6,
+            "name": "Torus 12"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.5581498146057129,
+                -0.005999355111271143
+            ],
+            "rotation": [
+                0.04932529106736183,
+                0.04932519793510437,
+                -0.705384373664856,
+                0.7053842544555664
+            ],
+            "scale": [
+                0.20142103731632234,
+                0.20142103731632234,
+                0.20142099261283875
+            ],
+            "mesh": 7,
+            "name": "Torus 11"
+        },
+        {
+            "translation": [
+                0.6427023410797119,
+                0.5177960395812988,
+                -0.05649268999695778
+            ],
+            "rotation": [
+                0.6644629836082459,
+                0.6644630432128906,
+                -0.2418447732925415,
+                0.24184472858905793
+            ],
+            "scale": [
+                0.20142114162445069,
+                0.20142105221748353,
+                0.2014211267232895
+            ],
+            "mesh": 8,
+            "name": "Torus 13"
+        },
+        {
+            "translation": [
+                0.6427023410797119,
+                0.5208690762519836,
+                -0.018358983099460603
+            ],
+            "rotation": [
+                0.4055798649787903,
+                0.40557968616485598,
+                -0.5792280435562134,
+                0.5792279243469238
+            ],
+            "scale": [
+                0.2014210820198059,
+                0.20142103731632234,
+                0.20142105221748353
+            ],
+            "mesh": 9,
+            "name": "Torus 14"
+        },
+        {
+            "translation": [
+                0.6427024006843567,
+                0.5782729387283325,
+                -0.03769746795296669
+            ],
+            "rotation": [
+                -0.40050971508026125,
+                -0.40050971508026125,
+                -0.5827452540397644,
+                0.5827451348304749
+            ],
+            "scale": [
+                0.20142102241516114,
+                0.20142099261283875,
+                0.20142090320587159
+            ],
+            "mesh": 10,
+            "name": "Torus 15"
+        },
+        {
+            "translation": [
+                0.6484086513519287,
+                0.5418946146965027,
+                -0.025721358135342599
+            ],
+            "rotation": [
+                -0.6087614297866821,
+                0.0,
+                0.0,
+                0.7933533191680908
+            ],
+            "scale": [
+                0.14907526969909669,
+                0.14907529950141908,
+                0.14907529950141908
+            ],
+            "mesh": 11,
+            "name": "Sphere 3"
+        }
+    ],
+    "samplers": [
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                8
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "texture3415280",
+            "sampler": 0,
+            "source": 0
+        }
+    ],
+    "scene": 0,
+    "extensionsUsed": [
+        "KHR_texture_transform"
+    ],
+    "extensionsRequired": [
+        "KHR_texture_transform"
+    ]
+}
