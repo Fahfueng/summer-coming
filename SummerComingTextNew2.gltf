@@ -1,0 +1,626 @@
+{
+    "asset": {
+        "copyright": "2020 (c) Adobe Inc.",
+        "generator": "Adobe Dimension - a39c749b7f1dd68e8fcb597e3575f0bb9d09bfc8",
+        "version": "2.0"
+    },
+    "accessors": [
+        {
+            "bufferView": 0,
+            "componentType": 5126,
+            "count": 18080,
+            "type": "VEC3",
+            "max": [
+                0.0550583079457283,
+                0.1993781179189682,
+                0.03160732984542847
+            ],
+            "min": [
+                -0.03408673033118248,
+                -0.000029999999242136256,
+                -0.030215280130505563
+            ]
+        },
+        {
+            "bufferView": 1,
+            "componentType": 5126,
+            "count": 18080,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 2,
+            "componentType": 5126,
+            "count": 18080,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 3,
+            "componentType": 5125,
+            "count": 27120,
+            "type": "SCALAR",
+            "max": [
+                18079.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 4,
+            "componentType": 5126,
+            "count": 7720,
+            "type": "VEC3",
+            "max": [
+                10.266169548034668,
+                4.099721431732178,
+                2.049860715866089
+            ],
+            "min": [
+                -10.266167640686036,
+                0.0,
+                -2.049860954284668
+            ]
+        },
+        {
+            "bufferView": 5,
+            "componentType": 5126,
+            "count": 7720,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 6,
+            "componentType": 5126,
+            "count": 7720,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 7,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                5270.0
+            ],
+            "min": [
+                2600.0
+            ]
+        },
+        {
+            "bufferView": 8,
+            "componentType": 5125,
+            "count": 7902,
+            "type": "SCALAR",
+            "max": [
+                5307.0
+            ],
+            "min": [
+                2484.0
+            ]
+        },
+        {
+            "bufferView": 9,
+            "componentType": 5125,
+            "count": 11376,
+            "type": "SCALAR",
+            "max": [
+                2608.0
+            ],
+            "min": [
+                0.0
+            ]
+        },
+        {
+            "bufferView": 10,
+            "componentType": 5125,
+            "count": 11376,
+            "type": "SCALAR",
+            "max": [
+                7719.0
+            ],
+            "min": [
+                5093.0
+            ]
+        },
+        {
+            "bufferView": 11,
+            "componentType": 5126,
+            "count": 4000,
+            "type": "VEC3",
+            "max": [
+                5.134890556335449,
+                2.281141519546509,
+                1.1405707597732545
+            ],
+            "min": [
+                -5.134890556335449,
+                0.0,
+                -1.1405707597732545
+            ]
+        },
+        {
+            "bufferView": 12,
+            "componentType": 5126,
+            "count": 4000,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 13,
+            "componentType": 5126,
+            "count": 4000,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 14,
+            "componentType": 5125,
+            "count": 6,
+            "type": "SCALAR",
+            "max": [
+                2712.0
+            ],
+            "min": [
+                1330.0
+            ]
+        },
+        {
+            "bufferView": 15,
+            "componentType": 5125,
+            "count": 4218,
+            "type": "SCALAR",
+            "max": [
+                2732.0
+            ],
+            "min": [
+                1270.0
+            ]
+        },
+        {
+            "bufferView": 16,
+            "componentType": 5125,
+            "count": 11538,
+            "type": "SCALAR",
+            "max": [
+                3999.0
+            ],
+            "min": [
+                0.0
+            ]
+        }
+    ],
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteOffset": 0,
+            "byteLength": 216960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 216960,
+            "byteLength": 216960,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 433920,
+            "byteLength": 144640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 578560,
+            "byteLength": 108480,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 687040,
+            "byteLength": 92640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 779680,
+            "byteLength": 92640,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 872320,
+            "byteLength": 61760,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 934080,
+            "byteLength": 24,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 934104,
+            "byteLength": 31608,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 965712,
+            "byteLength": 45504,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1011216,
+            "byteLength": 45504,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1056720,
+            "byteLength": 48000,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1104720,
+            "byteLength": 48000,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1152720,
+            "byteLength": 32000,
+            "target": 34962
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1184720,
+            "byteLength": 24,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1184744,
+            "byteLength": 16872,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteOffset": 1201616,
+            "byteLength": 46152,
+            "target": 34963
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 1247768,
+            "uri": "SummerComingTextNew2_binary.bin"
+        }
+    ],
+    "cameras": [
+        {
+            "perspective": {
+                "znear": 0.000020876284906989896,
+                "yfov": 0.6024156808853149,
+                "zfar": 2.0,
+                "aspectRatio": 1.3333333730697632
+            },
+            "type": "perspective",
+            "name": "render_camera"
+        }
+    ],
+    "images": [
+        {
+            "name": "roughness",
+            "uri": "SummerComingTextNew2_images/roughness.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture",
+            "uri": "SummerComingTextNew2_images/normal_image_texture.png",
+            "mimeType": "image/png"
+        },
+        {
+            "name": "normal_image_texture_0",
+            "uri": "SummerComingTextNew2_images/normal_image_texture_0.png",
+            "mimeType": "image/png"
+        }
+    ],
+    "materials": [
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.7991020679473877,
+                    0.0030352941248565914,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "roughnessFactor": 0.028999999165534974
+            },
+            "name": "Plastic 43",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.0,
+                    0.0,
+                    0.0,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.33333298563957217
+            },
+            "name": "Bloom Again Front Bevel Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    1.0,
+                    0.4341537058353424,
+                    0.6795425415039063,
+                    1.0
+                ],
+                "metallicFactor": 0.07999999821186066,
+                "roughnessFactor": 0.33333298563957217
+            },
+            "name": "Bloom Again Extrusion Material",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 0
+                }
+            },
+            "normalTexture": {
+                "index": 1
+            },
+            "name": "Glossy Paper 2",
+            "doubleSided": true
+        },
+        {
+            "pbrMetallicRoughness": {
+                "baseColorFactor": [
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    0.8468732833862305,
+                    1.0
+                ],
+                "metallicFactor": 0.0,
+                "metallicRoughnessTexture": {
+                    "index": 0
+                }
+            },
+            "normalTexture": {
+                "index": 2
+            },
+            "name": "Glossy Paper 4",
+            "doubleSided": true
+        }
+    ],
+    "meshes": [
+        {
+            "name": "Banana",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 0,
+                        "NORMAL": 1,
+                        "TEXCOORD_0": 2
+                    },
+                    "indices": 3,
+                    "material": 0
+                }
+            ]
+        },
+        {
+            "name": "Bloom Again 2",
+            "primitives": [
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 7,
+                    "material": 1
+                },
+                {
+                    "attributes": {
+                        "POSITION": 4,
+                        "NORMAL": 5,
+                        "TEXCOORD_0": 6
+                    },
+                    "indices": 8,
+                    "material": 2
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 9,
+                    "material": 3
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 6,
+                        "NORMAL": 5,
+                        "POSITION": 4
+                    },
+                    "indices": 10,
+                    "material": 4
+                }
+            ]
+        },
+        {
+            "name": "We Will",
+            "primitives": [
+                {
+                    "attributes": {
+                        "POSITION": 11,
+                        "NORMAL": 12,
+                        "TEXCOORD_0": 13
+                    },
+                    "indices": 14,
+                    "material": 1
+                },
+                {
+                    "attributes": {
+                        "TEXCOORD_0": 13,
+                        "NORMAL": 12,
+                        "POSITION": 11
+                    },
+                    "indices": 15,
+                    "material": 2
+                },
+                {
+                    "attributes": {
+                        "POSITION": 11,
+                        "NORMAL": 12,
+                        "TEXCOORD_0": 13
+                    },
+                    "indices": 16,
+                    "material": 3
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "translation": [
+                -0.4666694402694702,
+                -0.01929492875933647,
+                0.8908370733261108
+            ],
+            "rotation": [
+                -0.12059047073125839,
+                0.379409521818161,
+                0.04995020851492882,
+                0.9159756302833557
+            ],
+            "scale": [
+                1.0,
+                1.0,
+                0.9999999403953552
+            ],
+            "camera": 0,
+            "name": "render_camera_n3d"
+        },
+        {
+            "translation": [
+                0.04684554785490036,
+                0.1759241819381714,
+                0.15981189906597138
+            ],
+            "rotation": [
+                -0.5086501240730286,
+                -0.4911975860595703,
+                0.3641868233680725,
+                0.6061088442802429
+            ],
+            "scale": [
+                1.9527041912078858,
+                1.9527037143707276,
+                1.952704906463623
+            ],
+            "mesh": 0,
+            "name": "Banana"
+        },
+        {
+            "children": [
+                3,
+                4
+            ],
+            "translation": [
+                -0.012885436415672303,
+                0.0,
+                0.0
+            ],
+            "name": "SummerComingTextNew"
+        },
+        {
+            "translation": [
+                0.07156181335449219,
+                0.00804088544100523,
+                3.814697180359872e-8
+            ],
+            "rotation": [
+                -0.12278774380683899,
+                0.6963642239570618,
+                0.12278774380683899,
+                0.6963642835617065
+            ],
+            "scale": [
+                0.033344440162181857,
+                0.03334444761276245,
+                0.011469055898487568
+            ],
+            "mesh": 1,
+            "name": "Bloom Again 2"
+        },
+        {
+            "translation": [
+                -0.060150146484375,
+                0.6354585289955139,
+                0.003963660914450884
+            ],
+            "rotation": [
+                -0.037007104605436328,
+                0.7061376571655273,
+                0.03700711578130722,
+                0.7061377763748169
+            ],
+            "scale": [
+                0.05329909548163414,
+                0.05329907685518265,
+                0.018332606181502343
+            ],
+            "mesh": 2,
+            "name": "We Will"
+        }
+    ],
+    "samplers": [
+        {},
+        {},
+        {}
+    ],
+    "scenes": [
+        {
+            "nodes": [
+                0,
+                1,
+                2
+            ],
+            "name": "scene"
+        }
+    ],
+    "textures": [
+        {
+            "name": "roughness",
+            "sampler": 0,
+            "source": 0
+        },
+        {
+            "name": "tmp_image_pie_55cd_cefa_4d8a",
+            "sampler": 1,
+            "source": 1
+        },
+        {
+            "name": "tmp_image_pie_0da1_6998_d07a",
+            "sampler": 2,
+            "source": 2
+        }
+    ],
+    "scene": 0
+}
